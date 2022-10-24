@@ -1,2 +1,2 @@
-# dear-and-sincerely
+# Dear and Sincerely
 E-mail Client for Tired &amp; Busy Modern Human.
